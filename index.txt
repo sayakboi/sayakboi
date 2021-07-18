@@ -8,15 +8,15 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-sm-5">
       <h3>Column 1</h3>
       <p>Every teardrop is a waterfall</p>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-5">
       <h3>Column 2</h3>
-      <p>Always in meay head</p>
+      <p>Always in my head</p>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-2">
       <h3>Column 3</h3>
       <p>A head full of dreams</p>
     </div>
