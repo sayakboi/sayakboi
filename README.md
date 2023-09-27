@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Greetings! 👋
+I am a mechanical engineer by degree, minor in ECE, a C++ programmer by profession and a Roboticist by passion.
+Currently developing my programming skills to be up-to-date with Industry standards. I like to deal with systems level software, knowing how things are operating on a low level basis. 
+I wish to proceed my career in terms of advanced control systems and dynamics.
 <!--
 **sayakboi/sayakboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
